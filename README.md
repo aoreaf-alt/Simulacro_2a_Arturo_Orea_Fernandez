@@ -2,7 +2,7 @@
 
 Entorno Desarrollo
 
-1. Creación de variables
+1. Creación de variables :fire:
 ---
 Aqui creamos unas variables
 **String**
@@ -16,13 +16,13 @@ Se han creado estas variables ya que el enunciado los ha expresado.
 palabra =  "hola"
 is_conductor = True
 ```
-2. Creacion del Printf 
+2. Creacion del Printf :fire:
 
 ```Python
 print(f"Palabra: {palabra} is_conductor: {is_conductor}")
 ```
 
-3. Resumen de GIT
+3. Resumen de GIT :fire:
 * Nos metemos en la carpeta del escritorio
 ``` Bash
 cd desktop
@@ -60,9 +60,12 @@ git checkout -b main
 ```
 * Metemos lo que tenemos en develop a la rama main
 ``` Bash
-git merge main
+git merge develop
 ```
 * Por ultimo hacemos un push para añadirlo al repositorio
 ``` Bash
 git push origin 
 ```
+
+4. Entrega de Repositorio 
+[Repositorio-Arturo-Orea](https://github.com/aoreaf-alt/Simulacro_2a_Arturo_Orea_Fernandez)
